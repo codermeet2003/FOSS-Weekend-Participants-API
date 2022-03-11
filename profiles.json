@@ -1,13 +1,23 @@
+[
 {
-    "name": "John Doe",
-    "roll_number": "LCS2020000",
-    "age": "19",
-    "hobbies": ["reading", "writing", "playing badminton", "singing"]
+   "name":"John Doe",
+   "roll_number":"LCS2020000",
+   "age":"19",
+   "hobbies":[
+      "reading",
+      "writing",
+      "playing badminton",
+      "singing"
+   ]
+},{
+   "name":"Meet Savla",
+   "roll_number":"LCS2021010",
+   "age":"18",
+   "hobbies":[
+      "Watching Anime",
+      "gaming",
+      "playing football",
+      "coding"
+   ]
 }
-{
-    "name": "Meet Savla",
-    "roll_number": "LCS2021010",
-    "age": "18",
-    "hobbies": ["Watching Anime", "gaming", "playing football", "coding"]
-}
-
+]
